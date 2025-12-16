@@ -9,7 +9,8 @@
   
 - 💞️ I’m open to collaborate on QA and testing projects....
 - 📫 Let’s connect:
--   www.linkedin.com/in/gehad-saad-...
+  
+   www.linkedin.com/in/gehad-saad-...
 
 <!---
 GehadSaad/GehadSaad is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
