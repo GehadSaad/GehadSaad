@@ -1,9 +1,14 @@
-- 👋 Hi, I’m @GehadSaad
-- 👀 I’m interested in Software testing, Productivity anlysis and Bussiness intelligence  ...
-- 🌱 I worked before as Productivity analysis @ _VOIS
-- 🌱 I’m currently learning Software testing...
-- 💞️ I’m looking to collaborate on Quallity assurance projects...
-- 📫 How to reach me  www.linkedin.com/in/gehad-saad-...
+👋 Hi, I’m @GehadSaad
+🔍 Software & Quality Assurance Engineer| Productivity Analysis Background
+
+- I’m passionate about software testing, quality assurance and business & productivity analysis.
+  I previously worked as a Productivity Analyst at _VOIS, where I developed strong analytical and reporting skills.
+
+🌱 Currently, I’m expanding my expertise in software testing, with hands-on experience in manual testing, test case design, API testing, mobile testing, performance testing,      and test automation.
+💞️ I’m open to collaborate on QA and testing projects.
+
+📫 Let’s connect:
+LinkedIn
 
 <!---
 GehadSaad/GehadSaad is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
